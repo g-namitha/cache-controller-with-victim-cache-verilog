@@ -76,10 +76,6 @@ cache-controller-with-victim-cache-verilog
 │
 ├── waveforms
 │
-├── docs
-│
-├── simulation
-│
 ├── README.md
 ├── LICENSE
 └── .gitignore
