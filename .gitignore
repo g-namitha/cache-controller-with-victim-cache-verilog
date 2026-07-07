@@ -1,0 +1,22 @@
+# Vivado generated folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.Xil/
+
+# Logs
+*.log
+*.jou
+*.str
+
+# Temporary files
+*.tmp
+*.bak
+
+# Waveform configuration
+*.wcfg
+
+# Backup files
+*~
